@@ -1,0 +1,7 @@
+{
+  "name": "Supervisión GOC",
+  "description": "Sistema integral de supervisión de cobranza, gestión de rutas en campo, metas operativas y formatos de auditoría.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
